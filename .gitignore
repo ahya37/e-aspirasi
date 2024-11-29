@@ -1,0 +1,6 @@
+.env
+.env-production
+.htaccess
+vendor/*
+storage/*
+public/storage/*
